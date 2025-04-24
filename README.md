@@ -65,8 +65,8 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjasArd&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjasArd&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
 
 - 🌐 [LinkedIn](https://linkedin.com/in/your-link)
 - 📂 [Portfolio](https://your-portfolio.com)
-- 📧 Email: youremail@example.com
+- 📧 Email: mranjasardiansyah007@gmail.com
 
 ---
 

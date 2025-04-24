@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jhaz 👋</h1>
+<h1 align="center">Hi there, I'm Jhazz 👋</h1>
 <p align="center">
   🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 🌐 Network Engineer | 🛡️ Cyber Security Learner
 </p>
@@ -79,4 +79,4 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
 
 ---
 
-_“Stay curious, keep learning, and build things that matter.”_
+_“ꦧꦛꦺꦴꦏ꧀ꦧꦺꦴꦭꦸꦆꦱꦶꦩꦢꦸ.”_

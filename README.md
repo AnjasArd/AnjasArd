@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Jhazz 👋</h1>
+<h1 align="center">Hello there, I'm Jhaz 👋</h1>
 <p align="center">
   🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 🌐 Network Engineer | 🛡️ Cyber Security Learner
 </p>
@@ -73,8 +73,7 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)
-- 📂 [Portfolio](https://your-portfolio.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anjas-ard/)
 - 📧 Email: mranjasardiansyah007@gmail.com
 
 ---

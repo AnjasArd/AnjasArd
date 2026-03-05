@@ -62,15 +62,6 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjasArd&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjasArd&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/anjas-ard/)

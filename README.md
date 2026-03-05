@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Jhazz 👋</h1>
 <p align="center">
-  🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 🌐 Network Engineer | 🛡️ Cyber Security Learner
+  🛡️ DevSecOps Enthusiast |  🌐 Network Engineer |  🤖 Machine Learning Explorer 
 </p>
 
 ---

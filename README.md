@@ -65,7 +65,7 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/anjas-ard/)
-- 📧 Email: mranjasardiansyah007@gmail.com
+- 📧 Email: mranjasardiansyah@gmail.com
 
 ---
 

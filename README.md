@@ -5,20 +5,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, **Machine Learning**, **Computer Networks**, and **Cyber Security**. My journey involves building scalable systems, automating workflows, exploring intelligent models, and defending infrastructure from threats.
 
-- 💼 Currently working on CI/CD pipelines and cloud infrastructure
-- 📊 Exploring ML models for real-world problem solving
-- 🧠 Always learning new ways to optimize and secure systems
-- 🌱 Continuously upskilling with hands-on labs and open source projects
-
+- Currently working on CI/CD pipelines and cloud infrastructure.
+- Exploring ML models for real-world problem solving.
+- Always learning new ways to optimize and secure systems.
+- Continuously upskilling with hands-on labs and open source projects.
+- Lifetime learner.
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
-#### 🚀 DevOps & Cloud
+#### DevOps & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -29,7 +29,7 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-#### 🤖 Machine Learning & Computer Vision
+#### Machine Learning & Computer Vision
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,7 +41,7 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-#### 🌐 Networking & SysAdmin
+#### Networking & SysAdmin
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -51,7 +51,7 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-#### 🛡️ Cyber Security
+#### Cyber Security
 
 <p>
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -62,7 +62,7 @@ I'm a passionate IT enthusiast diving deep into the intersection of **DevOps**, 
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/anjas-ard/)
 - 📧 Email: mranjasardiansyah@gmail.com
